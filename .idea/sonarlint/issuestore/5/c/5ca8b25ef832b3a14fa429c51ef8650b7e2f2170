@@ -1,0 +1,7 @@
+
+F
+java:S2925:"$Remove this use of "Thread.sleep()".(»ãßºøÿÿÿÿ8ŞìÆûŞ.
+F
+java:S2925A"$Remove this use of "Thread.sleep()".(»ãßºøÿÿÿÿ8½—¤üŞ.
+ª
+java:S3577"‡Rename class "zadanie2" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ã„¶ûÿÿÿÿ8Èı½İ.

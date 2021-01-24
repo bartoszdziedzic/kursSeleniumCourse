@@ -24,7 +24,7 @@ import java.util.Set;
 //        6. Pobierz dowolne już istniejące ciasteczko i użyj asercji, żeby potwierdzić, że domena,
 //        ścieżka i ustawienie flagi HTTP jest takie, jak tego oczekujemy.
 
-public class zadanie3 {
+public class Zadanie3 {
     WebDriver driver;
     WebDriverWait wait;
 

@@ -22,7 +22,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 //        7. Zamknij okno przeglądarki.
 //        8. Zamknij sesję.
 //        Pamiętaj o inicjalizacji WebDrivera i podaniu ścieżki do ChromeDrivera.
-public class zadanie1 {
+public class Zadanie1 {
     WebDriver driver;
     WebDriverWait wait;
 

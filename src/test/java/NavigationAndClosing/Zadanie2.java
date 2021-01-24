@@ -26,7 +26,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 //        strony, który mówi o tym w jakiej wersji językowej jest strona; użyj tego fragmentu
 //        źródła do asercji.
 //        Pamiętaj o inicjalizacji WebDrivera i zamknięciu sesji na koniec testu.
-public class zadanie2 {
+public class Zadanie2 {
     WebDriver driver;
     WebDriverWait wait;
 

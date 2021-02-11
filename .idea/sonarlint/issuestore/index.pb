@@ -15,8 +15,6 @@ e
 0src/test/java/NavigationAndClosing/zadanie3.java,e\d\ed479ad8fa51ac8cc7073d5052a37fa1d0ab2d3e
 f
 6src/test/java/NavigationAndClosing/LocatorsSimple.java,f\4\f47f9db03e32250269692bb76ea97219171d1156
-h
-8src/test/java/NavigationAndClosing/LocatorsAdvanced.java,7\0\706e44304be8247f4fb8ebff0c5a92529a0f573b
 o
 ?src/test/java/NavigationAndClosing/webElementsLoginZadanie.java,a\2\a2c1cbe4c5d58d7af7220c8d66dc1cceb470de86
 :
@@ -40,3 +38,7 @@ l
 <src/test/java/NavigationAndClosing/ExplicitWaitZadanie1.java,4\e\4ee09bad1d16d2dec113526113c5118aa91b788c
 w
 Gsrc/test/java/NavigationAndClosing/ExplicitWaitZadanie1BeforeClass.java,4\0\403746616514ef73296cb4c55355b023f9112a54
+q
+Asrc/test/java/NavigationAndClosing/WebElementsMethodsZadanie.java,6\f\6f0612c60dc48f2b568cb525499aaabe125477df
+^
+.src/test/java/NavigationAndClosing/Frames.java,3\7\37d564e3d8b74681fc5d0cdfb09a5fa81afd17ff

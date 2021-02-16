@@ -42,3 +42,5 @@ q
 Asrc/test/java/NavigationAndClosing/WebElementsMethodsZadanie.java,6\f\6f0612c60dc48f2b568cb525499aaabe125477df
 ^
 .src/test/java/NavigationAndClosing/Frames.java,3\7\37d564e3d8b74681fc5d0cdfb09a5fa81afd17ff
+^
+.src/test/java/NavigationAndClosing/Alerts.java,4\b\4b2de5f40eed16e750e9e214a0c030d7ecd5c5fc

@@ -46,3 +46,5 @@ Asrc/test/java/NavigationAndClosing/WebElementsMethodsZadanie.java,6\f\6f0612c6
 .src/test/java/NavigationAndClosing/Alerts.java,4\b\4b2de5f40eed16e750e9e214a0c030d7ecd5c5fc
 h
 8src/test/java/NavigationAndClosing/WindowNavigation.java,2\7\272daf7cecb6c9371cabf50f17ee5763c2b74e95
+a
+1src/test/java/NavigationAndClosing/Dropdowns.java,c\a\caf8dfd4703dff959a80ec40a3d3c64d17db732e

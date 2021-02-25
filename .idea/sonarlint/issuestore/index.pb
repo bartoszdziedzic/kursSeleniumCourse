@@ -48,3 +48,5 @@ h
 8src/test/java/NavigationAndClosing/WindowNavigation.java,2\7\272daf7cecb6c9371cabf50f17ee5763c2b74e95
 a
 1src/test/java/NavigationAndClosing/Dropdowns.java,c\a\caf8dfd4703dff959a80ec40a3d3c64d17db732e
+j
+:src/test/java/NavigationAndClosing/ActionsAndGestures.java,9\a\9a816c9bfb83ce785153f7756838f7b807716e4a
